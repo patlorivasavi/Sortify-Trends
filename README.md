@@ -1,5 +1,6 @@
 Sortify Trends 🚀
 
+Live Demo: https://sortify-trends.vercel.app
 Real-Time Social Media Trend Ranking & Algorithm Visualizer
 
 Sortify Trends is an interactive Algorithm Visualization Platform that demonstrates how sorting, searching, and greedy algorithms power real-time social media trend ranking systems.
